@@ -1,0 +1,2 @@
+# WarGameCards
+Automated Card Game
